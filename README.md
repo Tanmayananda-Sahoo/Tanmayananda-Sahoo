@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **MERN stack-based web applications**
 - 🌱 I’m always learning **new technologies and best practices in full-stack development**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, C++, or Java**
-- 📫 How to reach me: [boyvector06@gmail.com]
+- 📫 How to reach me: [tanmayananda.sahoo@gmail.com]
 - ⚡ Fun fact: I love solving problems with code and turning coffee into software ☕💻
 
 ---

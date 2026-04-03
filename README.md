@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Tanmay</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | Passionate Coder</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | Machine Learning Enthusiast | Passionate Coder</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **MERN stack-based web applications**
-- 🌱 I’m always learning **new technologies and best practices in full-stack development**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, C++, or Java**
+- 🔭 I’m currently working on **MERN stack-based web applications and exploring Machine Learning**
+- 🌱 I’m always learning **new technologies, Machine Learning concepts, and best practices in full-stack development**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, SQL, Machine Learning, C++, or Java**
 - 📫 How to reach me: [tanmayananda.sahoo@gmail.com]
 - ⚡ Fun fact: I love solving problems with code and turning coffee into software ☕💻
 
@@ -36,6 +36,15 @@
 #### 🛢️ Databases:
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
+
+#### 🤖 Machine Learning:
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 </p>
 
 #### ⚙️ Tools & Platforms:
@@ -57,9 +66,6 @@
   <a href="mailto:boyvector06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-<!--   <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-12100E?style=flat&logo=vercel&logoColor=white" />
-  </a> -->
 </p>
 
 ---

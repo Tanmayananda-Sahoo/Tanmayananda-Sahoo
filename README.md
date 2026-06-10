@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Tanmay</h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast | Machine Learning Enthusiast | Passionate Coder</h3>
+<h3 align="center">Full Stack Web Developer | Machine Learning and Cybersecurity Enthusiast | Passionate Coder</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **MERN stack-based web applications and exploring Machine Learning**
+- 🔭 I’m currently working on **MERN stack-based web applications and exploring Machine Learning and Cyversecurity.**
 - 🌱 I’m always learning **new technologies, Machine Learning concepts, and best practices in full-stack development**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, SQL, Machine Learning, C++, or Java**
 - 📫 How to reach me: [tanmayananda.sahoo@gmail.com]

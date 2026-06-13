@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on **MERN stack-based web applications and exploring Machine Learning and Cyversecurity.**
+- 🔭 I’m currently working on **MERN stack-based web applications and exploring Machine Learning and Cybersecurity.**
 - 🌱 I’m always learning **new technologies, Machine Learning concepts, and best practices in full-stack development**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB, SQL, Machine Learning, C++, or Java**
 - 📫 How to reach me: [tanmayananda.sahoo@gmail.com]

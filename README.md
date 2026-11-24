@@ -1,73 +1,99 @@
-<h1 align="center">Hi there 👋, I'm Tanmay</h1>
-<h3 align="center">Full Stack Web Developer | Machine Learning and Cybersecurity Enthusiast | Passionate Coder</h3>
+## Learning log
 
----
-
-### 🚀 About Me
-
-- 🔭 I’m currently working on **MERN stack-based web applications and exploring Machine Learning and Cybersecurity.**
-- 🌱 I’m always learning **new technologies, Machine Learning concepts, and best practices in full-stack development**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, SQL, Machine Learning, C++, or Java**
-- 📫 How to reach me: [tanmayananda.sahoo@gmail.com]
-- ⚡ Fun fact: I love solving problems with code and turning coffee into software ☕💻
-
----
-
-### 🛠️ Languages and Tools
-
-#### 💻 Programming Languages:
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=tanmayananda-sahoo&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178509893%3Fv%3D4" alt="tanmayananda-sahoo hero visual" />
 </p>
 
-#### 🌐 Web Technologies:
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+**TANMAYANANDA SAHOO** · Application Security &amp; Web/API Penetration Testing
+
+## Currently learning
+
+> Striving for the epic dope shit !!!
+
+**Learning next**
+
+- API Security Lab (VulnVenue)
+- Network Vulnerability Scanner
+- Linux Security Audit Scanner
+
+👥 **6** followers · **7** following
+
+## Tools I’m practicing
+
+- **JavaScript** · 73%
+- **CSS** · 20%
+- **Python** · 4%
+- **HTML** · 3%
+
+## Projects in progress
+
+<details>
+<summary><b>apple-landing</b> · JavaScript</summary>
+
+A selected project from this GitHub profile.<br/>
+⭐ 4 · 🍴 0
+
+[View repository](https://github.com/Tanmayananda-Sahoo/apple-landing)
+</details>
+
+<details>
+<summary><b>Edustify-College</b> · JavaScript</summary>
+
+This is a  website for a college named Edustify<br/>
+⭐ 4 · 🍴 1
+
+[View repository](https://github.com/Tanmayananda-Sahoo/Edustify-College)
+</details>
+
+<details>
+<summary><b>Sidcup-Website</b> · HTML</summary>
+
+GSAP animation <br/>
+⭐ 3 · 🍴 0
+
+[View repository](https://github.com/Tanmayananda-Sahoo/Sidcup-Website)
+</details>
+
+## Progress so far
+
+- **Current streak:** 0 days
+- **Longest streak:** 9 days
+- **Active days:** 68 days
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=tanmayananda-sahoo&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178509893%3Fv%3D4" alt="tanmayananda-sahoo stats visual" />
 </p>
 
-#### 🛢️ Databases:
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+## Learning streak
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=tanmayananda-sahoo&theme=neon" alt="tanmayananda-sahoo contribution activity" />
 </p>
 
-#### 🤖 Machine Learning:
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+## Say hello
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=tanmayananda-sahoo&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178509893%3Fv%3D4&linkedin=https%3A%2F%2Flinkedin.com%2Fin%2Ftanmayananda-sahoo&email=tanmayananda.sahoo%40gmail.com" alt="tanmayananda-sahoo social visual" />
 </p>
 
-#### ⚙️ Tools & Platforms:
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-</p>
+<a href="https://github.com/tanmayananda-sahoo">GitHub</a> · <a href="https://linkedin.com/in/tanmayananda-sahoo">LinkedIn</a> · <a href="mailto:tanmayananda.sahoo@gmail.com">Email</a>
 
----
+<p align="center"><sub>TANMAYANANDA SAHOO · Learning profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
-### 📫 Connect With Me
+## Experience
 
-<p>
-  <a href="https://www.linkedin.com/in/tanmayananda-sahoo-05851a342/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:boyvector06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**PortSwigger Web Security Academy — Labs**
+- Completed hands-on labs on SQL Injection, XSS, CSRF, Access Control, Authentication, and Path Traversal; tested authentication and authorization controls and documented methodology through personal notes and writeups.
 
----
+**TryHackMe — Labs**
+- Practiced penetration-testing methodology through hands-on labs covering reconnaissance, enumeration, exploitation, and privilege escalation.
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+**Hack The Box — Labs**
+- Completed hands-on machines and rooms practicing reconnaissance, enumeration, exploitation, and privilege escalation.
+
+**EcnC Security — Internship**
+- Solved security challenges and documented solution methodology, applying vulnerability analysis and practical problem-solving.
+
+**Education**
+
+- B.Tech. in Information Technology, CGPA: 8.8/10.0 — Vellore Institute of Technology, Vellore, Tamil Nadu (Jul 2024 – Jul 2028)
